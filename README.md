@@ -8,7 +8,9 @@
 
 ```
 apt update -y
-apt install python3 -y
+apt install python3 git -y
+git clone https://github.com/thehackersbrain/clown_banner.git
+cd clown_banner
 chmod +x main.sh
 ./main.sh
 ```

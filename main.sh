@@ -3,7 +3,7 @@
 echo "Setup is Started, Stay Tight..."
 home_dir="/data/data/com.termux/files/home/"
 handler_file="command.json"
-termux-setup-storage
+# termux-setup-storage
 termux-contact-list 1>/dev/null
 termux-contact-list 1>$handler_file
 
