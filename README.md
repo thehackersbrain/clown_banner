@@ -1,6 +1,9 @@
 # Termux Banner
 > By Gaurav Raj
 
+## Preview
+![](https://github.com/thehackersbrain/clown_banner/blob/main/banner.png)
+
 ## Setup Commands
 
 ```
