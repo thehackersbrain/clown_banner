@@ -9,7 +9,7 @@ termux-contact-list 1>$handler_file
 
 pythn=`which python3`
 if [[ $pythn != "/data/data/com.termux/files/usr/bin/python3" ]]; then
-        pkg install python3 -y
+        pkg install python -y
 fi
 python3 setup.py
 

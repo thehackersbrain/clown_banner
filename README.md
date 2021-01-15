@@ -8,7 +8,7 @@
 
 ```
 pkg update -y
-pkg install python3 git -y
+pkg install python git -y
 git clone https://github.com/thehackersbrain/clown_banner.git
 cd clown_banner
 chmod +x main.sh
